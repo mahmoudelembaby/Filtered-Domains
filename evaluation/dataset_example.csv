@@ -1,0 +1,11 @@
+domain,title,description,keywords,headings,expected
+github.com,GitHub code hosting,Software development and version control platform,programming|software|technology|cloud,Code hosting|Pull requests,RELATED
+stackoverflow.com,Stack Overflow,Programming questions and answers,programming|software|technology,Questions|Answers,RELATED
+arxiv.org,arXiv research papers,Open access scientific research preprints,research|education|data science,Research papers,RELATED
+mayoclinic.org,Mayo Clinic,Medical information for doctors and patients,medical|healthcare|clinical|doctor,Patient care|Research,RELATED
+hubspot.com,HubSpot marketing,Marketing sales and CRM platform,marketing|sales|crm|business,Marketing|Sales,RELATED
+coursera.org,Coursera online courses,Online education and business courses,education|business|management,Courses,RELATED
+casino-example-xyz.com,Best online casino,Play casino games and betting,gambling|casino|betting,Bonus|Bet now,NOT_RELATED
+free-movies-xyz.com,Watch movies free,Free streaming movies online,streaming movies free|torrent,Watch now,NOT_RELATED
+github.com,GitHub code hosting,Software development platform,programming|software,Code,RELATED
+fictional-ambiguous-12345.org,Example portal,Welcome to our homepage,general|portal,Home|About,NOT_RELATED
